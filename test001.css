@@ -1,0 +1,14 @@
+#outerbox{
+    border-style: solid;
+    border-width: 5px;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+#innerbox{
+    background-color: red;
+    margin-top: 200px;
+    margin-left: 200px;
+    width: 100px;
+    height: 100px
+}
