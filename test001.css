@@ -4,6 +4,7 @@
     width: 500px;
     height: 500px;
     border-radius: 10px;
+    margin-left: 200px;
 }
 #innerbox{
     background-color: red;
@@ -11,4 +12,9 @@
     margin-left: 200px;
     width: 100px;
     height: 100px
+
+
+}
+#span{
+    margin: 20px 300px;
 }
