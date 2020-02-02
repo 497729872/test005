@@ -1,10 +1,11 @@
 #outerbox{
-    border-style: solid;
+    border-style: solid ;
     border-width: 5px;
     width: 500px;
     height: 500px;
     border-radius: 10px;
     margin-left: 200px;
+    border-color: blue;
 }
 #innerbox{
     background-color: red;
